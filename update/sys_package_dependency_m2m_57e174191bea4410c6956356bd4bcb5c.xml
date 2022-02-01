@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">2ae584791bf100108d03631abc4bcb54</dependency>
+        <dependency display_value="Task table schema" source="com.glide.task">686ed24ba9223010c0a065f439e661f4</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-07 14:37:34</sys_created_on>
