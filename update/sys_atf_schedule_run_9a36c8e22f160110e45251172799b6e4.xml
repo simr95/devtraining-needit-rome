@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>firefox</browser_name>
+        <browser_version/>
+        <description>Run suite 'needit app' on a system with this configuration:
+Firefox browser on any version
+Windows operating system on any version</description>
+        <order>100</order>
+        <os_name>windows</os_name>
+        <os_version/>
+        <schedule display_value="Needit app Suites">8d0608e22f160110e45251172799b6fd</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-20 10:57:16</sys_created_on>
+        <sys_id>9a36c8e22f160110e45251172799b6e4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_9a36c8e22f160110e45251172799b6e4</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2022-03-20 11:22:42</sys_updated_on>
+        <test_suite display_value="needit app">2d273e7c2f920110e45251172799b692</test_suite>
+        <watch_list>6816f79cc0a8016401c5a33be04be441</watch_list>
+    </sys_atf_schedule_run>
+</record_update>

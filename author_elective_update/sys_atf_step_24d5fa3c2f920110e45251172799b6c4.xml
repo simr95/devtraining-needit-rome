@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Log: </description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 13:14:11</sys_created_on>
+        <sys_id>24d5fa3c2f920110e45251172799b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_24d5fa3c2f920110e45251172799b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 13:14:11</sys_updated_on>
+        <table/>
+        <test display_value="when needed past">8885f6f82f920110e45251172799b653</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=24d5fa3c2f920110e45251172799b6c4"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>24d5fa3c2f920110e45251172799b6c4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 13:14:11</sys_created_on>
+        <sys_id>e0d5fa3c2f920110e45251172799b6c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 13:14:11</sys_updated_on>
+        <value/>
+        <variable display_value="Log">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e^id=24d5fa3c2f920110e45251172799b6c4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c8c562cddbe0774052dd2f17d49619e0</instance_id>
+        <instance_name>dev78065</instance_name>
+        <name>sys_atf_step_24d5fa3c2f920110e45251172799b6c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Log: </description><display_name>Log</display_name><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 13:14:11</sys_created_on><sys_id>24d5fa3c2f920110e45251172799b6c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_24d5fa3c2f920110e45251172799b6c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 13:14:11</sys_updated_on><table/><test display_value="when needed past">8885f6f82f920110e45251172799b653</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=24d5fa3c2f920110e45251172799b6c4"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>24d5fa3c2f920110e45251172799b6c4</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 13:14:11</sys_created_on><sys_id>e0d5fa3c2f920110e45251172799b6c5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 13:14:11</sys_updated_on><value/><variable display_value="Log">523c79985f30220012b44adb7f46663a</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e^id=24d5fa3c2f920110e45251172799b6c4"/></record_update>]]></payload>
+        <payload_hash>-714749057</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>96e2141f2f110110e45251172799b684</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 13:14:11</sys_created_on>
+        <sys_id>a0d5fa3c2f920110e45251172799b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f8db6f1bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 13:14:11</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>e8d5fa3cfd92011030adda8f732fa9c6</update_guid>
+        <update_guid_history>e8d5fa3cfd92011030adda8f732fa9c6:-714749057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 13:15:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>3e6b861fbf9e4cf495102bf607d5d924</sys_id>
+        <sys_metadata>24d5fa3c2f920110e45251172799b6c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_24d5fa3c2f920110e45251172799b6c4</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_24d5fa3c2f920110e45251172799b6c4">a0d5fa3c2f920110e45251172799b6c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 13:15:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
